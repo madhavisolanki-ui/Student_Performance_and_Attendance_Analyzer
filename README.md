@@ -27,7 +27,7 @@ The dataset used in this project contains [brief description of dataset].
 ##  Results
 The final model achieved an accuracy of **[XX%]**.
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Improve model performance
 - Deploy the model using Flask or Streamlit
 - Use a larger and more diverse dataset
